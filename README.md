@@ -13,7 +13,7 @@ My repos are private at the Moment (and therefore are my stats at 0), but someti
 
 I try to learn anything related to programming, like using Github. 
 
-The languages I'm currently learning are JavaScript, TypeScript, Python, Java, C# and C++ (And HTML and CSS).
+The languages I'm currently learning are JavaScript, TypeScript, Python, Java, 4D, C# and C++ (And HTML and CSS).
 
 
 # Want to talk to me?
