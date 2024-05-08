@@ -1,5 +1,5 @@
-Hi, I'm Schotur, a beginner developer from northern germany. 
-I am eager to learn new, exiting things about programming.
+Hi, I'm Schotur, a beginner developer from northern germany. I just started my programming journey, but I am eager to learn new, exiting things about programming. 
+My repos are private at the Moment (and therefore are my language stats at 0), but sometime in the future, there will be public ones.
 
 
 # Stats
@@ -9,8 +9,19 @@ I am eager to learn new, exiting things about programming.
 
 
 
+# Learning
+
+I try to learn anything related to programming, like using Github. 
+
+The languages I'm currently learning are JavaScript, TypeScript, Python, Java, C# and C++ (And HTML and CSS).
 
 
+# Want to talk to me?
+
+My social are comming soon...
+
+
+<!--
 - 👋 Hi, I’m @Schotur
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -18,7 +29,7 @@ I am eager to learn new, exiting things about programming.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 <!---
 Schotur/Schotur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
