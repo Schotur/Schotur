@@ -1,4 +1,4 @@
-Hi, I'm Schotur, a beginner developer from northern germany. I just started my programming journey, but I am eager to learn new, exiting things about programming. 
+Hi, I'm Schotur, a rookie developer from northern germany. I just started my programming journey, but I am eager to learn new, exiting things about programming. 
 My repos are private at the Moment (and therefore are my stats at 0), but sometime in the future, there will be public ones.
 
 
