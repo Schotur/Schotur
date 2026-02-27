@@ -1,5 +1,5 @@
 Hi, I'm Schotur, a rookie developer from northern germany. I just started my programming journey, but I am eager to learn new, exiting things about programming. 
-My repos are private at the Moment (and therefore are my stats at 0), but sometime in the future, there will be public ones.
+My repos are private at the moment, but sometime in the future, there will be public ones.
 
 
 # Stats
@@ -12,8 +12,6 @@ My repos are private at the Moment (and therefore are my stats at 0), but someti
 # Learning
 
 I try to learn anything related to programming, like using Github. 
-
-The languages I'm currently learning are JavaScript, TypeScript, Python, Java, 4D, C# and C++ (And HTML and CSS).
 
 
 # Want to talk to me?
