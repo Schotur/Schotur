@@ -1,15 +1,15 @@
-# Hi, I'm Schotur! 👋
+# Hi, I'm Schotur!
 
 I'm an aspiring developer from northern Germany. I recently started my coding journey and I'm excited to explore the world of software development and technology.
 
 
-### 🚀 About Me
-- 🔭 I’m currently focusing on sharpening my programming skills and mastering the GitHub ecosystem.
-- 🌱 I’m learning the fundamentals of various programming languages and frameworks.
-- 👯 I’m looking forward to contributing to open-source projects in the future.
-- ⚡ Fun Fact: I love video games. (But I think thats quite common ^^)
+### About Me
+- I’m currently focusing on sharpening my programming skills and mastering the GitHub ecosystem.
+- I’m learning the fundamentals of various programming languages and frameworks.
+- I’m looking forward to contributing to open-source projects in the future.
+- Fun Fact: I love video games. (But I think thats quite common ^^)
 
-### 🛠 Tech Stack (Currently Learning / Using)
+### Tech Stack (Currently Learning / Using)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,7 +22,7 @@ I'm an aspiring developer from northern Germany. I recently started my coding jo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Schotur&show_icons=true&theme=gotham" alt="Schotur's GitHub stats" />
   <br/>
