@@ -22,7 +22,7 @@ I'm an aspiring developer from northern Germany. I recently started my coding jo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-### GitHub Stats
+### GitHub Stats (If it works)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Schotur&show_icons=true&theme=gotham" alt="Schotur's GitHub stats" />
   <br/>
