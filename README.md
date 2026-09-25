@@ -25,9 +25,9 @@ I'm an aspiring developer from northern Germany. I recently started my coding jo
 
 ### GitHub Stats (If it works)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Schotur&show_icons=true&theme=gotham" alt="Schotur's GitHub stats" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Schotur&show_icons=true&theme=gotham" alt="Schotur's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schotur&langs_count=8&theme=gotham" alt="Top Languages" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Schotur&langs_count=8&theme=gotham" alt="Top Languages" />
 </div>
 
 <!--
